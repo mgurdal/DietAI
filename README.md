@@ -405,12 +405,12 @@ food_data.head()
 Günlük kalori ihtiyacını hesaplamak için Harris–Benedict formülünü kullanacağız.
 Bu formül için cinsiyet, kilo, boy ve yaş değerlerine ihtiyacımız var.
 Formül kadınlar ve erkekler için ağaşıdaki gibi
-~~~
+
 BMRman = (10 × weight) + (6.25 × height) - (5 × age) + 5
 BMRwoman = (10 × weight) + (6.25 × height) - (5 × age) - 161
-
+~~~
 |Egzersiz Yoğunluğu|Günlük Kilokalori İhtiyacı
-|----------------------------------------
+-------------------|---------------------
 |Çok az veya hiç|BMR x 1.2
 |Hafif (haftada 1–3 gün)|BMR x 1.375
 |Orta (haftada 3–5 gün)|BMR x 1.55
