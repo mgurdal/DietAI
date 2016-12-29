@@ -1,0 +1,61 @@
+Activity;Energy_Expenditure
+Racquetball (recreational);0.07
+Kayaking (leisure);0.04
+Dancing (general);0.08
+Golf (walking + bag);0.09
+Running (5 mph, 12 min/mile);0.12
+Running 5.5 mph (11 min/mile);0.14
+Running (6 mph, 10 min/mile);0.16
+Running (6.6 mph, 9 min/mile);0.19
+Running (7.5 mph 8 min/mile);0.22
+Running (8.6 mph, 7 min/mile);0.24
+Running (10 mph, 6 min/mile);0.28
+Chopping Wood;0.09
+Mowing Lawn (walking, power);0.08
+Raking Leaves;0.07
+Trimming (manual);0.07
+Weeding/Gardening;0.07
+Sitting Activities (very light);0.03
+Standing (very light);0.04
+Walking (3 mph 20 min/mile);0.06
+Walking (3.5 mph, 17 min/mile);0.07
+Walking (4 mph 15 min/mile);0.08
+Sweeping;0.05
+Washing Car;0.07
+House Cleaning;0.06;
+Washing Dishes/Ironing;0.04
+Cooking Food;0.04
+Carrying Groceries (light);0.07
+Laundry Folding/Making Bed;0.04
+Playing with Kids (sitting);0.04
+Playing with Kids (standing);0.05
+Cycling (light, <10 mph);0.12
+Cycling (light-moderate, 10-12 mph);0.10
+Cycling (moderate, 12.1-14 mph);0.14
+Cycling (hard, 14.1-16 mph);0.18
+Cycling (v. hard, 16.1-19 mph);0.21
+Cycling (stationary, 50W);0.05
+Cycling (stationary, 100W);0.09
+Cycling (stationary, 150W);0.12
+Cycling (stationary, 200W);0.18
+Cycling (stationary, 250W);0.22
+Calisthenics (push-ups, etc.);0.08
+Circuit Training;0.14
+Weight Training (light);0.05
+Weight Training (hard);0.10
+Rowing (50W);0.06
+Rowing (100W);0.12
+Sitting Activities (very light);0.03
+Rowing (200W);0.21
+Stretching/Yoga;0.06
+Aerobics (low impact);0.09
+Aerobics (high impact);0.12
+Volleyball (recreational);0.05
+Bathing/Dressing;0.04
+Sexual Activity (kissing, hugs);0.02
+Sexual Activity (active);0.03
+Swimming (light);0.10
+Swimming (moderate);0.14
+Sleeping;0.02
+Child Care (sitting);0.05
+Child Care (standing);0.06
