@@ -253,7 +253,7 @@ food_data.tail()
 Yapayzeka modelimizi eğitmek için kişilerin günlük aktiviteleri ile ilgili bilgilerine ihtiyacımız var.
 Ben internette bulamadığım için kendi 'yapay' verilerimi oluşturdum.
 
-Öncelikle beslenme alışkanlığını temsil etmek için 8 saat aralıkları ile 10.000 adet zaman verisini içeren
+Öncelikle beslenme alışkanlığını temsil etmek için 24 saat aralıklar ile 10.000 adet zaman verisini içeren
 bir tablo oluşturdum. Bu tabloda yaş, kilo, boy, cinsiyet, günlük kalori ihtiyacı, günlük kalori alımı ve 
 yakımı ile ilgili bilgiler tutulacak.
 
