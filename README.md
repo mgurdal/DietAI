@@ -1525,10 +1525,6 @@ sample.head()
 res = m.predict(input_fn=lambda:input_fn(sample)) 
 ```
 
-~~~
-Ben testlerimde 0.99699998lik doğruluk oranı aldım.
-~~~
-
 
 ```python
 import pprint
@@ -1541,3 +1537,4 @@ for gercek, tahmin in zip([x for x in sample['label']], [next(res) for x in rang
 ```python
 
 ```
+![png](results.png)
