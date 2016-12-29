@@ -13,7 +13,7 @@ Umarım benden sonrakilere öncü olur.
 ~~~
 ## Gerekli modüller
 |Modül adı | Kullanım alanı
-|----------------------------------
+-----------|-----------------------
 |tempfile | Geçici depolama
 |pandas | Veri işleme
 |tensorflow | Yapay sinir ağı
