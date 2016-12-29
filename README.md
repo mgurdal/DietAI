@@ -968,7 +968,7 @@ Wide and deep learning tekniği büyük ölçekli regresyonlar (veriler arasınd
 [Burada](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html) wide & deep learning ile ilgili güzel bir blog yazısı var.
 [Burada](https://www.tensorflow.org/tutorials/wide_and_deep/) da tensorflowun kendi örneği var.
 
-![alt text](wide_n_deep.svg "Genis ve Derin Ogrenme")
+![png](wide_n_deep.png)
 
 ~~~
 Aşağıda sürekli ve kategorisel kolonları ve model için gerekli bazı değişkenleri belirledik.
