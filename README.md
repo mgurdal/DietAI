@@ -22,13 +22,17 @@ Umarım benden sonrakilere öncü olur.
 ## Kurulum
 ~~~
 Öncelikle bu projeyi tensorflow yüklenmese dahi sanal ortamda çalıştırmanızı tavsiye ederim.
-pip3 install -r requirements.txt komutu ile gerekli modülleri kurabilirsiniz. Eğer sorun çıkarsa
-modüllerin her birinin sitesinde detaylı kurulumları mevcut.
+virtualenv env -p python3 komutu ile sanal ortamı oluşturup,
+source env/bin/activate komutu ile sanal ortamı aktif edebilirsiniz.
+pip3 install -r requirements.txt komutu ile gerekli modülleri kurabilirsiniz. 
 
 Kütüphaneleri elle yüklemek isterseniz
+  sudo apt-get install virtualenv - sanal ortam için
   sudo pip3 install tensorflow
   sudo pip3 install pandas
   sudo apt-get install python3-matplotlib
+
+Eğer sorun çıkarsa modüllerin her birinin sitesinde detaylı kurulumları mevcut.
 ~~~
 
 ## Çalıştırma
