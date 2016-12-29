@@ -4,7 +4,7 @@
 Yapay sinir ağları ile beslenme koçu oluşturma.
 
 Okuldaki yapayzeka dersi için hazırladığım bu araştırmada temel anlamda bir beslenme koçu
-oluşturmaya çalıştım. Projede temel hedefim günlük aldığım ve harcadığım kalorilerin yapayzeka ile
+oluşturmaya çalıştım. Projede hedefim günlük aldığım ve harcadığım kalorilerin yapayzeka ile
 hesabını yapıp kilo alıp almayacağımı öğrenmek.
 
 Malesef veri toplama ve yapay sinir ağı modelini oluşturma kısmında bazı sıkıntılar çektim.
