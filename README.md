@@ -890,7 +890,7 @@ Opsiyonel olarak tablodaki ilk n veriyi test verisi olarak kaydettik.
 İlerde bu programı tekrar çalıştırdığımızda veriler rastgele atanacağı için eski test verileri 
 bizim için tutarlı ama farklı değerler olmuş olacak.
 ~~~
-# !!! Bu hücre code türünde olmayabilir !!!
+#### !!! Bu hücre code türünde olmayabilir !!!
 personal_test = personal_data[:1000] # created already
 personal_test.to_csv("my_test.csv")
 personal_test.head()
