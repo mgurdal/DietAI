@@ -57,7 +57,7 @@ import datetime
 ### Besin Verileri
 ~~~
 Konumuz beslenme olduğu için haliyle besin verilerine ihtiyacımız var.
-Aşağıda gördüğünüz ABBREV.csv dosyasında 92.000deb fazla besin kombinasyonunun detaylı bilgileri bulunmakta.
+Aşağıda gördüğünüz ABBREV.csv dosyasında 8194 adet besin kombinasyonunun detaylı bilgileri bulunmakta.
 ~~~
 
 
