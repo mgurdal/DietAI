@@ -1,7 +1,7 @@
 
 # DietAI
 ~~~
-Yapayzaka sinir ağları ile beslenme koçu oluşturma.
+Yapay sinir ağları ile beslenme koçu oluşturma.
 
 Okuldaki yapayzeka dersi için hazırladığım bu araştırmada temel anlamda bir beslenme koçu
 oluşturmaya çalıştım. Projede temel hedefim günlük aldığım ve harcadığım kalorilerin yapayzeka ile
