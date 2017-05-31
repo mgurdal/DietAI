@@ -1608,7 +1608,6 @@ res = m.predict(input_fn=lambda:input_fn(sample))
     Please switch to tf.summary.histogram. Note that tf.summary.histogram uses the node name instead of the tag. This means that TensorFlow will automatically de-duplicate summary names based on their scope.
 
 
-### 0.99599999% doğruluk oranı gayet başarılı :)
 
 
 ```python
