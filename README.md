@@ -984,7 +984,7 @@ Aşağıda sürekli ve kategorisel kolonları ve model için gerekli bazı deği
     * total_kcal
     * workout_kcal
     
-### Kategorsel
+### Kategorisel
     * gender
     * activity
     * breakfast
